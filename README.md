@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href=" https://portfolio-segni.vercel.app/"><b>Portfolio Website</b></a>
+
   ·
   <a href="https://www.linkedin.com/in/segni-nadew/"><b>LinkedIn</b></a>
   ·
